@@ -9,6 +9,10 @@ Universal Third Person Controller es un Package que modifica y agrega mecánicas
 
 NOTA: A la hora de la importación Universal Third Person Controller modificara y actualizara algunos archivos de el Starter Assets de Unity para que puedas disfrutar de todas sus características.
 
+
+
+
+
 # Características:
 El Package contiene Scripts, Sprites, Prefabs, Escenas y otros recursos de ejemplo para entender mejor su ejecución y aplicación.
 
