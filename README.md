@@ -9,7 +9,9 @@ Universal Third Person Controller es un Package que modifica y agrega mecánicas
 1. Crea un nuevo proyecto en Unity.
 2. Descarga e instala el Starter Assets - Third Person Character Controller | URP de Unity Technologies en tu proyecto ya sea desde la Assets Store o el Package Manager de Unity: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526
 3. Descarga el Package de Universal Third Person Controller e importa el paquete (Import Package) en tu proyecto.
-4. Listo para utilizar Universal Third Person Controller.
+4. Busca el archivo llamado "LightingData" que se encuentra en la dirección: Assets\StarterAssets\ThirdPersonController\Scenes\Playground y eliminalo ya que se crashea a la hora de hacer modificaciones al Starter Assets, es un archivo que contiene información de luces para la escena con Universal Render Pipeline que no necesitaremos.
+5. En este punto la consola de Unity no deberia mostar ninguna clase de error, si lo hiciera por favor reportarlo en nuestro discord para solucionarlo lo antes posible.
+6. Listo para utilizar Universal Third Person Controller.
 
 NOTA: A la hora de la importación Universal Third Person Controller modificara y actualizara algunos archivos de el Starter Assets de Unity para que puedas disfrutar de todas sus características.
 
