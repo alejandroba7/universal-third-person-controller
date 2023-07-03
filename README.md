@@ -22,7 +22,7 @@ NOTA: A la hora de la importación Universal Third Person Controller modificara 
 # Características:
 El Package contiene Scripts, Sprites, Prefabs, Escenas y otros recursos de ejemplo para entender mejor su ejecución y aplicación.
 
-##Escenas:
+## Escenas:
 UI: Escena con un ejemplo de menú inicio basico,contrrol de datos,  compartir datos entre escenas, traducción de textos, control de sonidos e idioma.
 
 Collect Items: Escena con un minijuego de recolectar items, menu pause y guardado de datos.
