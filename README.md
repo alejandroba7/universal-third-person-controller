@@ -22,6 +22,11 @@ NOTA: A la hora de la importación Universal Third Person Controller modificara 
 # Características:
 El Package contiene Scripts, Sprites, Prefabs, Escenas y otros recursos de ejemplo para entender mejor su ejecución y aplicación.
 
+##Escenas:
+UI: Escena con un ejemplo de menú inicio basico,contrrol de datos,  compartir datos entre escenas, traducción de textos, control de sonidos e idioma.
+
+Collect Items: Escena con un minijuego de recolectar items, menu pause y guardado de datos.
+
 ## UI:
 MenuController: Script para crear un menú principal básico para tu videojuego, nos ayuda a controlar botones y paneles del canvas. 
 
@@ -49,6 +54,8 @@ PlayerData: Script básico que podemos modificar para agregar datos que deseamos
 
 SaveSystem: Script que nos permite guardar en binario los datos del script PlayerData.
 
+LevelStatus: Script que controla el estado del nivel actual.
+
 
 
 
@@ -67,7 +74,11 @@ SaveSystem: Script que nos permite guardar en binario los datos del script Playe
 
 CollectItem: Script que permite a un objeto ser recolectado por el jugador y sumado a una variable.
 
+Rotate: Permite a un objeto rotar sobre sus propios ejes.
+
 RotateAround: Permite a un objeto rotar u orbitar alrededor de otro.
 
 MobilePlatform: Permite a una plataforma moverse a una posición determinada y regresar a su posición inicial.
+
+
 
