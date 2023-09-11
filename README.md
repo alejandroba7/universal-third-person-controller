@@ -8,8 +8,9 @@ Universal Third Person Controller es un Package que modifica y agrega mecánicas
 # Como Instalar
 1. Crea un nuevo proyecto en Unity.
 2. Busca en el Package Manager de Unity el paquete Input System y dale instalar.
-3. Descarga nuestro Package de Universal Third Person Controller e importa el paquete (Import Package) en tu proyecto.
-4. Inicia a crear el videojuego de tus sueños.
+3. Unity te pedira reiniciar para activar el New Input System, dale si y reinicia Unity, se abre de nuevo el proyecto que creaste.
+4. Descarga nuestro Package de Universal Third Person Controller e importa el paquete (Import Package) en tu proyecto.
+5. Inicia a crear el videojuego de tus sueños.
 
 
 
